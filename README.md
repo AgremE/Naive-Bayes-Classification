@@ -31,5 +31,8 @@ To run on the face recognition dataset, use -d faces.
 
 	python dataClassifier.py -d faces -c naiveBayes --autotune
 
+#Future Work:
+
+As I know this particular method will work effectively with spam mail classification, therefore, it will definitely a good try to use it for spam mail classification to a good prediction rate. Stay Tune!!!
 	
 
